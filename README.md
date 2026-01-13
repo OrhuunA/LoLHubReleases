@@ -2,7 +2,26 @@
 
 **LoLHub** is a powerful, secure, and modern account manager for League of Legends. It helps you organize unlimited accounts, track ranked stats, and safely auto-login without compromising security.
 
-![LoLHub Preview](assets/preview.png)
+##  Screenshots
+
+### Dashboard & Accounts
+Organize all your accounts in one place. See Rank, LP, and even decay warnings at a glance.
+![Dashboard](assets/dashboard.png)
+
+### Game Tools
+Automate the boring stuff! Auto-accept matches, auto-pick your champion, and auto-ban specific bans.
+![Game Tools](assets/gametools.png)
+
+### Visual Inventory
+View your owned champions and skins with beautiful artwork directly from the LCU.
+![Skins](assets/skins.png)
+![Champions](assets/champions.png)
+
+### Settings
+Customize your experience, back up your data, and more.
+![Settings](assets/settings.png)
+
+---
 
 ##  Key Features
 
@@ -14,12 +33,11 @@ Stop worrying about typing your password into Discord or Google Chrome by mistak
 
 ###  Multi-Server & "Other" Category Support
 - **Global Support:** Manage accounts across all Riot regions (EUW, TR, NA, KR, etc.).
-- **New "Other" Category:** Store accounts for friends or other purposes without polluting your main list or triggering rank update errors.
+- **New "Other" Category:** Store accounts for friends or other purposes without polluting your main list.
 
 ###  Ranked Stats & Decay Tracking
 - **Real-time Updates:** Automatically syncs Rank, LP, and Winrate directly from the LCU.
 - **Decay Warnings:** For Diamond+ players, see exactly how many days until decay directly on the card.
-- **Visual Inventory:** View your owned Champions and Skins with beautiful artwork.
 
 ###  Modern & Fast
 - **Electron-based:** Built on modern web technologies for a smooth, responsive UI.
@@ -36,4 +54,3 @@ LoLHub is designed with security as a priority. Account credentials are encrypte
 
 ---
 *Developed by OrhuunA*
-
